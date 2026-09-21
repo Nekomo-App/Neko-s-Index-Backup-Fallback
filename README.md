@@ -1,12 +1,14 @@
-# Neko’s Index — Backup / Fallback
+# Neko's Index — Backup / Fallback
 
-> ⚠️ **This is a backup/fallback copy** of the source listings found on the **Neko’s Index** website (https://n3k0s-index.netlify.app/). If the main site is ever unavailable, this README remains as a static mirror and can be indexed by search engines, copied, or forked.
+> ⚠️ **This is a backup/fallback copy** of the source listings found on the **Neko's Index** website (https://n3k0s-index.netlify.app/). If the main site is ever unavailable, this README remains as a static mirror and can be indexed by search engines, copied, or forked.
 
-A curated, living directory of open-source apps, privacy tools, streaming utilities, anime & manga resources, and more.
+A curated, living directory of open-source apps, privacy tools, streaming utilities, anime & manga resources, retro gaming/modding guides, and more.
 
 [![Live: GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-3b82f6?logo=github)](https://neko-s-index.github.io/Nekos-Index/)
 [![Live: Netlify](https://img.shields.io/badge/Live-Netlify-00c7b7?logo=netlify)](https://n3k0s-index.netlify.app/)
 [![License: GPL](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+> 🚧 The live site notes it is currently in **beta / development** — not all sources are listed yet and some features may not work correctly.
 
 ---
 
@@ -15,23 +17,67 @@ A curated, living directory of open-source apps, privacy tools, streaming utilit
 - [About](#about)
 - [Safety & Disclaimer](#safety--disclaimer)
 - [Categories](#categories)
+- [Other Useful Indexes](#other-useful-indexes)
 - [Suggested GitHub Topics](#suggested-github-topics)
 
 ---
 
 ## About
 
-This README mirrors the source listings found on the **Neko’s Index** website. The index focuses on:
+This README mirrors the source listings found on the **Neko's Index** website. The index focuses on:
 
 - Open-source software and FOSS alternatives
 - Privacy & security tools (VPNs, DNS, browsers, password managers)
 - Streaming, anime, manga, and media tools
-- Gaming, emulation, and Linux resources
+- Gaming, emulation, retro/console modding, and Linux resources
 - Productivity, AI, and development tools
 
 ---
 
 ## Categories
+
+### [Recommended VPNs & DNS Services](#recommended-vpns-and-dns-services)
+
+- [AdGuard VPN / DNS](https://adguard.com) `Free Trial`
+- [Proton VPN](https://protonvpn.com) `Free Tier`
+- [Mullvad VPN](https://mullvad.net) `Privacy`
+- [NordVPN](https://nordvpn.com) `Popular`
+- [ExpressVPN](https://www.expressvpn.com) `Premium`
+- [Surfshark](https://surfshark.com) `Unlimited`
+- [CyberGhost VPN](https://www.cyberghostvpn.com) `Streaming`
+- [IVPN](https://www.ivpn.net) `Privacy`
+- [PrivadoVPN](https://privadovpn.com) `Free Tier`
+- [Cloudflare DNS (1.1.1.1)](https://www.cloudflare.com) `Fast`
+- [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html) `Blocking`
+- [Quad9 DNS](https://quad9.net) `Security`
+- [NextDNS](https://nextdns.io) `Customizable`
+- [OpenDNS](https://www.opendns.com) `Filtering`
+- [Google Public DNS](https://dns.google) `Reliable`
+- [CleanBrowsing DNS](https://cleanbrowsing.org) `Family`
+- [ReThinkDNS](https://www.rethinkdns.com) `Open Source`
+- [Control D](https://www.controld.com) `Custom`
+- [Personal DNS Filter](https://www.zenz-solutions.de/personaldnsfilter-wp) `Mobile`
+- [WireGuard](https://www.wireguard.com) `Protocol`
+- [OpenVPN](https://openvpn.net) `Protocol`
+- [Tailscale](https://tailscale.com) `Mesh VPN`
+- [Headscale](https://github.com/juanfont/headscale) `Self-hosted`
+- [DNSCrypt](https://dnscrypt.info) `Encrypted`
+- [Blocky](https://0xerr0r.github.io/blocky) `DNS`
+- [Technitium DNS](https://technitium.com/dns) `DNS`
+- [Unbound](https://www.nlnetlabs.nl/projects/unbound/about) `Resolver`
+- [Knot Resolver](https://www.knot-resolver.cz) `Resolver`
+- [Stubby](https://getdnsapi.net) `DNS-over-TLS`
+- [ZeroTier](https://www.zerotier.com) `Mesh VPN`
+- [Twingate](https://www.twingate.com) `VPN`
+- [Nebula](https://github.com/slackhq/nebula) `Mesh VPN`
+- [SoftEther VPN](https://www.softether.org) `VPN`
+- [Algo VPN](https://github.com/trailofbits/algo) `Self-hosted`
+- [PiVPN](https://www.pivpn.io) `Self-hosted`
+- [CoreDNS](https://coredns.io) `DNS`
+- [dnsmasq](https://dnsmasq.org) `DNS`
+- [PowerDNS](https://www.powerdns.com) `DNS`
+- [BIND 9](https://www.isc.org/bind) `DNS`
+- [Knot DNS](https://www.knot-dns.cz) `DNS`
 
 ### [Open Source Streaming Apps (Multi-platform)](#open-source-streaming-apps-multi-platform)
 
@@ -68,6 +114,7 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [Jellyfin Media Player](https://github.com/jellyfin/jellyfin-media-player) `Desktop`
 - [Jellyfin Android TV](https://github.com/jellyfin/jellyfin-androidtv) `Android TV`
 - [Findroid / Jellyfin Android](https://github.com/jellyfin/jellyfin-android) `Android`
+- [HDO Pro](https://hdopro.netlify.app/) `Private` — an open-source streaming app for movies, shows, and anime; archives may not be available because this resource is private.
 
 ### [Open Source Anime & Manga Apps](#open-source-anime-and-manga-apps)
 
@@ -95,6 +142,9 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [TachiyomiJ2K](https://github.com/Jays2Kings/TachiyomiJ2K) `Android`
 - [Neko](https://github.com/CarlosEsco/Neko) `MangaDex`
 - [Aidoku](https://github.com/Aidoku/Aidoku) `iOS`
+- [Dantotsu](https://github.com/rebelonion/Dantotsu) `Android`
+- [Dartotsu](https://github.com/aayush2622/Dartotsu) `Multi`
+- [Dantotsu Alpha](https://github.com/Shebyyy/Dantotsu-Alpha) `Alpha`
 
 ### [Premium Streaming Services](#premium-streaming-services)
 
@@ -256,6 +306,9 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [Anibd](https://anibd.app/) `Database`
 - [AniHQ](https://anihq.cc/home/) `HQ`
 - [AnimePahe](https://animepahe.pw/) `Classic`
+- [AniWave](https://aniwave.to/) `Popular`
+- [HiAnime](https://hianime.to/) `Popular`
+- [AnimeSuge](https://animesuge.to/) `HD`
 - [Animotvslash](https://www.animotvslash.org/) `Slash`
 - [Otaku-Streamers](https://beta.otaku-streamers.com/) `Community`
 - [Watch Cartoon Online](https://www.wco.tv/) `Cartoons`
@@ -296,6 +349,9 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [Manga Fox](https://mangafox.la/) `Classic`
 - [Mangago](https://everythingmoe.com/s/mangago) `Index`
 - [MKissa Manga](https://everythingmoe.com/s/allmanga) `Index`
+- [MangaPark](https://mangapark.net/) `Popular`
+- [MangaPill](https://mangapill.com/) `Simple`
+- [MangaBuddy](https://mangabuddy.com/) `Fast`
 
 ### [Free Movie Streaming Sites](#free-movie-streaming-sites)
 
@@ -366,6 +422,8 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [KissOppa](https://everythingmoe.com/s/kissoppa) `Index`
 - [Kisskh.club](https://everythingmoe.com/s/asianview) `Index`
 - [Kissasiantv](https://everythingmoe.com/s/kissasiantv) `Index`
+- [DramaCool](https://dramacool.com.pa/) `Popular`
+- [Viewasian](https://viewasian.co/) `Index`
 
 ### [Additional Anime & Manga Apps](#additional-anime-and-manga-apps)
 
@@ -397,6 +455,14 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [SeaDex](https://releases.moe) `Database`
 - [nekoBT](https://nekobt.com) `Anime`
 - [AniRena](https://anirena.com) `Anime`
+- [1337x](https://1337x.to) `Torrents`
+- [The Pirate Bay](https://thepiratebay.org) `Classic`
+- [TorrentGalaxy](https://torrentgalaxy.to) `Torrents`
+- [RuTracker](https://rutracker.org) `Russian`
+- [LimeTorrents](https://www.limetorrents.lol) `Torrents`
+- [YTS](https://yts.mx) `Movies`
+- [EZTV](https://eztv.re) `TV`
+- [Jackett](https://github.com/Jackett/Jackett) `Indexer Proxy`
 
 ### [Privacy & Security Tools](#privacy-and-security-tools)
 
@@ -468,6 +534,21 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [Watchroo](https://everythingmoe.com/s/watchroo) `Index`
 - [Vidbox](https://everythingmoe.com/s/vidboxto) `Index`
 - [Hexa Watch](https://everythingmoe.com/s/hexawatch) `Index`
+- [LookMovie](https://lookmovie2.to) `Movies`
+- [FlixHQ](https://flixhq.to) `Movies & TV`
+- [Soaper TV](https://soaper.live) `Movies & TV`
+- [VidSrc](https://vidsrc.to) `Embed`
+- [Goojara](https://goojara.to) `Movies & TV`
+- [Fmovies](https://fmovies.to) `Movies & TV`
+- [SFlix](https://sflix.to) `Movies & TV`
+- [MyFlixer](https://myflixer.to) `Movies & TV`
+- [SolarMovie](https://solarmovie.pe) `Movies`
+- [Putlocker](https://putlocker.vip) `Classic`
+- [GoMovies](https://gomovies.sx) `Movies`
+- [Zoechip](https://zoechip.si) `Movies & TV`
+- [Bflix](https://bflix.gg) `Movies & TV`
+- [WatchSeries](https://watchseries.im) `TV Shows`
+- [Vumoo](https://vumoo.to) `Movies`
 
 ### [Music & OST Sites](#music-and-ost-sites)
 
@@ -489,6 +570,7 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [Sonix's OST](https://everythingmoe.com/s/sonixgvn) `Index`
 - [Osanime](https://everythingmoe.com/s/osanime) `Index`
 - [Musicdex](https://everythingmoe.com/s/musicdex) `Index`
+- [Nicotine+ (Soulseek)](https://nicotine-plus.org) `P2P`
 
 ### [Calendar & Schedule Tools](#calendar-and-schedule-tools)
 
@@ -624,6 +706,8 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [KayoAnime](https://everythingmoe.com/s/kayoanime) `Download`
 - [Panda Backup](https://everythingmoe.com/s/pandabackup) `Archive`
 - [Karaoke Mugen](https://everythingmoe.com/s/karamoe) `Karaoke`
+- [Dantotsu Updater](https://dantotsu-app-updater.vercel.app/) `Updater`
+- [Dantotsu Updater (Source)](https://github.com/MarshMeadow/dantotsu-updater-web) `GitHub`
 
 ### [Open Source Android Apps](#open-source-android-apps)
 
@@ -662,7 +746,7 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [BlackHole](https://github.com/Sangwan5688/BlackHole) `Music`
 - [Breezy Weather](https://f-droid.org/packages/org.breezyweather/) `Weather`
 
-### [Open Source PC / Desktop Apps](#open-source-pc-desktop-apps)
+### [Open Source PC / Desktop Apps](#open-source-pc-and-desktop-apps)
 
 - [Visual Studio Code](https://code.visualstudio.com) `Editor`
 - [VSCodium](https://vscodium.com) `Editor`
@@ -910,10 +994,6 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [AlternativeTo](https://alternativeto.net) `Discovery`
 - [OSAlt](https://www.osalt.com) `Discovery`
 
-### [Credits](#credits)
-
-- [Website](https://marshmeadow.netlify.app)
-
 ### [Archives & Mirrors](#archives-and-mirrors)
 
 - [Internet Archive](https://archive.org) `Web Archive`
@@ -934,7 +1014,7 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [Navidrome](https://www.navidrome.org) `Self-hosted Music Server`
 - [Jellyfin Music](https://jellyfin.org) `Media Server`
 - [Finamp](https://github.com/jmshrv/finamp) `Android / iOS`
-- [Feishin](https://github.com/feross/fresh-tapes) `Desktop Client`
+- [Feishin](https://github.com/jeffvli/feishin) `Desktop Client`
 - [Ampache](https://ampache.org) `Self-hosted`
 - [Funkwhale](https://funkwhale.audio) `Podcasts & Music`
 - [Mopidy](https://mopidy.com) `Music Server`
@@ -1073,7 +1153,7 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [Yubico](https://yubico.com) `Hardware`
 - [Aegis (GitHub)](https://github.com/beemdevelopment/Aegis) `Source`
 - [Authy](https://authy.com) `Cross-platform`
-- [GNOME Authenticator](https://gnome- authenticator) `Linux`
+- [GNOME Authenticator](https://gitlab.gnome.org/World/Authenticator) `Linux`
 - [Keepassium](https://keepassium.com) `iOS`
 
 ### [AI Tools & Assistants](#ai-tools-and-assistants)
@@ -1109,38 +1189,222 @@ This README mirrors the source listings found on the **Neko’s Index** website.
 - [Flathub](https://flathub.org) `Linux Apps`
 - [Arch Wiki Games](https://wiki.archlinux.org/title/List_of_games) `Wiki`
 
+### [Console Modding & Homebrew Guides](#console-modding-and-homebrew-guides)
+
+> Modding your own console for homebrew and backups is generally legal, but downloading games you don't own is not. Follow the linked guides carefully and only dump your own discs/cartridges.
+
+- [Wii Hacks Guide](https://wii.hacks.guide) `Wii`
+- [3DS Hacks Guide](https://3ds.hacks.guide) `3DS`
+- [DSi CFW Guide](https://dsi.cfw.guide) `DSi`
+- [Wii U Hacks Guide](https://wiiu.hacks.guide) `Wii U`
+- [Switch Hacks Guide](https://switch.hacks.guide) `Switch`
+- [Vita Hacks Guide](https://vita.hacks.guide) `PS Vita`
+- [PSP Hacks Guide](https://psp.hacks.guide) `PSP`
+- [ConsoleMods](https://www.consolemods.org) `Multi-console`
+- [LetterBomb](https://letterbomb.please.hackmii.com) `Wii Exploit`
+- [Luma3DS](https://github.com/LumaTeam/Luma3DS) `3DS CFW`
+- [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) `Switch CFW`
+- [Hekate](https://github.com/CTCaer/hekate) `Switch Bootloader`
+- [HENkaku](https://github.com/TheOfficialFloW/HENkaku) `Vita Exploit`
+- [h-encore²](https://github.com/TheOfficialFloW/h-encore-2) `Vita Exploit`
+- [PS3HEN](https://github.com/PS3Xploit/PS3HEN) `PS3 HEN`
+- [webMAN MOD](https://github.com/aldostools/webMAN-MOD) `PS3`
+- [FreeMCBoot](https://github.com/ps2homebrew/FreeMcBoot) `PS2`
+- [Open PS2 Loader](https://github.com/ps2homebrew/Open-PS2-Loader) `PS2`
+- [Xbox Softmodding Tool](https://github.com/Rocky5/Xbox-Softmodding-Tool) `OG Xbox`
+- [Swiss](https://github.com/emukidid/swiss-gc) `GameCube`
+- [PicoBoot](https://github.com/webhdx/PicoBoot) `GameCube`
+- [GoldHEN](https://github.com/GoldHEN/GoldHEN) `PS4`
+- [TWiLight Menu++](https://github.com/DS-Homebrew/TWiLightMenu) `DS / DSi`
+
+### [Homebrew Stores & Console Wikis](#homebrew-stores-and-console-wikis)
+
+- [Homebrew App Store](https://www.fortheusers.org) `Switch / Wii U`
+- [Open Shop Channel](https://oscwii.org) `Wii`
+- [Universal-DB](https://db.universal-team.net) `DS / 3DS`
+- [Universal-Updater](https://github.com/Universal-Team/Universal-Updater) `3DS`
+- [VitaDB](https://vitadb.rinnegatamante.it) `PS Vita`
+- [Brewology](https://www.brewology.com) `PSP / PS3 / Vita`
+- [WiiBrew](https://wiibrew.org) `Wiki`
+- [SwitchBrew](https://switchbrew.org) `Wiki`
+- [3DBrew](https://www.3dbrew.org) `Wiki`
+- [PSDevWiki](https://www.psdevwiki.com) `Wiki`
+- [GameBrew](https://www.gamebrew.org) `Wiki`
+- [Emulation General Wiki](https://emulation.gametechwiki.com) `Wiki`
+- [Flashcarts.net](https://flashcarts.net) `Flashcart Info`
+- [WikiTemp](https://wiki.gbatemp.net) `Wiki`
+- [openHandhelds Archive](https://dl.openhandhelds.org) `GP32 / Pandora`
+
+### [Emulators & Retro Gaming](#emulators-and-retro-gaming)
+
+- [PPSSPP](https://www.ppsspp.org) `PSP`
+- [mGBA](https://mgba.io) `GBA`
+- [melonDS](https://melonds.kuribo64.net) `DS`
+- [DeSmuMe](http://desmume.org) `DS`
+- [DuckStation](https://github.com/stenzek/duckstation) `PS1`
+- [Mednafen](https://mednafen.github.io) `Multi-system`
+- [Ares](https://ares-emu.net) `Multi-system`
+- [Cemu](https://cemu.info) `Wii U`
+- [Azahar](https://azahar-emu.org) `3DS`
+- [Ryubing (Ryujinx fork)](https://ryubing.org) `Switch`
+- [Xenia](https://xenia.jp) `Xbox 360`
+- [xemu](https://xemu.app) `OG Xbox`
+- [Cxbx-Reloaded](https://cxbx-reloaded.co.uk) `OG Xbox`
+- [Vita3K](https://vita3k.org) `PS Vita`
+- [shadPS4](https://shadps4.net) `PS4`
+- [Flycast](https://github.com/flyinghead/flycast) `Dreamcast`
+- [Redream](https://redream.io) `Dreamcast`
+- [Snes9x](https://www.snes9x.com) `SNES`
+- [bsnes](https://github.com/bsnes-emu/bsnes) `SNES`
+- [Mesen](https://www.mesen.ca) `NES / SNES / GB`
+- [SameBoy](https://sameboy.github.io) `GB / GBC`
+- [VisualBoyAdvance-M](https://github.com/visualboyadvance-m/visualboyadvance-m) `GBA`
+- [RMG](https://github.com/Rosalie241/RMG) `N64`
+- [Project64](https://www.pj64-emu.com) `N64`
+- [OpenEmu](https://openemu.org) `macOS`
+- [ScummVM](https://www.scummvm.org) `Adventure`
+- [DOSBox-X](https://dosbox-x.com) `DOS`
+- [AetherSX2](https://www.aethersx2.com) `Android PS2`
+- [NetherSX2 Patch](https://github.com/Trixarian/NetherSX2-patch) `Android PS2`
+- [Winlator](https://github.com/brunodev85/winlator) `Windows on Android`
+- [chiaki-ng](https://github.com/streetpea/chiaki-ng) `PS Remote Play`
+- [Daijishō](https://github.com/TapiocaFox/Daijishou) `Android Frontend`
+- [ES-DE](https://es-de.org) `Frontend`
+- [RetroBat](https://www.retrobat.org) `Frontend`
+- [RetroPie](https://retropie.org.uk) `Raspberry Pi`
+- [Batocera](https://batocera.org) `Linux Distro`
+- [Recalbox](https://www.recalbox.com) `Linux Distro`
+- [Lakka](https://www.lakka.tv) `Linux Distro`
+- [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer) `FPGA`
+- [RetroAchievements](https://retroachievements.org) `Achievements`
+
+### [Retro Handhelds & Custom Firmware](#retro-handhelds-and-custom-firmware)
+
+- [muOS](https://muos.dev) `RG35XX / TrimUI`
+- [Onion OS](https://github.com/OnionUI/Onion) `Miyoo Mini`
+- [Knulli](https://knulli.org) `Anbernic`
+- [ROCKNIX](https://rocknix.org) `Handhelds`
+- [ArkOS](https://github.com/christianhaitian/arkos) `Handhelds`
+- [AmberELEC](https://amberelec.org) `RG351`
+- [EmuELEC](https://github.com/EmuELEC/EmuELEC) `Amlogic Boxes`
+- [EmuDeck](https://www.emudeck.com) `Steam Deck`
+- [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) `Steam Deck`
+- [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) `Steam Deck`
+- [Proton GE](https://github.com/GloriousEggroll/proton-ge-custom) `Steam Deck / Linux`
+- [Retro Game Corps](https://retrogamecorps.com) `Guides`
+- [Retro Handhelds](https://retrohandhelds.gg) `Community`
+- [Anbernic](https://anbernic.com) `Devices`
+- [Retroid](https://www.goretroid.com) `Devices`
+- [DragonBox](https://www.dragonbox.de) `Pyra / Pandora`
+- [Pyra / Pandora Boards](https://pyra-handheld.com) `Community`
+
+### [Retro Online & Game Preservation](#retro-online-and-game-preservation)
+
+- [Wiimmfi](https://wiimmfi.de) `Wii / DS Online`
+- [Pretendo Network](https://pretendo.network) `Wii U / 3DS Online`
+- [Insignia](https://insignia.live) `OG Xbox Live`
+- [XLink Kai](https://www.teamxlink.co.uk) `LAN Tunneling`
+- [Dreamcast Live](https://dreamcastlive.net) `Dreamcast Online`
+- [WiiLink](https://wiilink24.com) `Wii Channels`
+- [Sylverant](https://sylverant.net) `PSO Server`
+- [Hidden Palace](https://hiddenpalace.org) `Prototypes`
+- [The Cutting Room Floor](https://tcrf.net) `Unused Content`
+- [Redump](http://redump.org) `Disc Preservation`
+- [No-Intro](https://no-intro.org) `DATs`
+- [TOSEC](https://www.tosecdev.org) `Preservation`
+- [Console Living Room](https://archive.org/details/consolelivingroom) `In-browser Emulation`
+- [RomM](https://github.com/rommapp/romm) `ROM Manager`
+- [Playnite](https://playnite.link) `Library Manager`
+- [Hardcore Gaming 101](https://www.hardcoregaming101.net) `Game History`
+
+### [Game Mods & ROM Hacking Tools](#game-mods-and-rom-hacking-tools)
+
+- [GameBanana](https://gamebanana.com) `Mods`
+- [ModDB](https://www.moddb.com) `PC Mods`
+- [Thunderstore](https://thunderstore.io) `PC Mods`
+- [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer) `Mod Manager`
+- [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js) `Web Patcher`
+- [Floating IPS](https://github.com/Alcaro/Flips) `IPS / BPS Patcher`
+- [Lunar IPS](https://fusoya.eludevisibility.org/lips/) `IPS Patcher`
+- [xdelta](https://github.com/jmacd/xdelta) `Delta Patches`
+- [Universal Pokémon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx) `Randomizer`
+- [PKHeX](https://github.com/kwsch/PKHeX) `Pokémon Save Editor`
+- [JKSV](https://github.com/J-D-K/JKSV) `Switch Saves`
+- [JKSM](https://github.com/J-D-K/JKSM) `3DS Saves`
+- [Checkpoint](https://github.com/BernardoGiordano/Checkpoint) `3DS / Switch Saves`
+- [GodMode9](https://github.com/d0k3/GodMode9) `3DS Tool`
+- [FBI](https://github.com/Steveice10/FBI) `3DS CIA Installer`
+- [SkyTemple](https://github.com/SkyTemple) `PMD Hacking`
+- [Tinke](https://github.com/pleonex/tinke) `NDS ROM Editor`
+- [GameHacking.org](https://gamehacking.org) `Cheat Codes`
+
+### [ROM Hacking & Fan Translation Hubs](#rom-hacking-and-fan-translation-hubs)
+
+- [Romhacking.net](https://www.romhacking.net) `Hub`
+- [Data Crystal](https://datacrystal.romhacking.net) `Wiki`
+- [SMW Central](https://www.smwcentral.net) `Super Mario World`
+- [Metroid Construction](https://metroidconstruction.com) `Metroid`
+- [Sonic Retro](https://sonicretro.org) `Sonic`
+- [PokéCommunity](https://www.pokecommunity.com) `Pokémon`
+- [Project Pokémon](https://projectpokemon.org) `Pokémon`
+- [Qhimm Forums](https://forums.qhimm.com) `FF7 / FF8`
+- [Zeldix](https://www.zeldix.net) `Zelda`
+- [Fire Emblem Universe](https://feuniverse.us) `Fire Emblem`
+
+### [Retro & Modding Communities](#retro-and-modding-communities)
+
+- [GBAtemp](https://gbatemp.net) `Forum`
+- [PSX-Place](https://www.psx-place.com) `Forum`
+- [GC-Forever](https://www.gc-forever.com) `GameCube / Wii`
+- [OG-Xbox](https://www.ogxbox.com) `OG Xbox`
+- [SegaXtreme](https://segaxtreme.net) `Sega`
+- [SpritesMind](https://spritesmind.net) `Genesis Dev`
+- [Dreamcast-Talk](https://www.dreamcast-talk.com) `Dreamcast`
+- [Elotrolado](https://www.elotrolado.net) `Spanish Scene`
+- [racketboy](https://www.racketboy.com) `Retro Blog / Forum`
+- [r/WiiHacks](https://www.reddit.com/r/WiiHacks) `Subreddit`
+- [r/3dshacks](https://www.reddit.com/r/3dshacks) `Subreddit`
+- [r/SwitchHacks](https://www.reddit.com/r/SwitchHacks) `Subreddit`
+- [r/vitahacks](https://www.reddit.com/r/vitahacks) `Subreddit`
+- [r/ps3homebrew](https://www.reddit.com/r/ps3homebrew) `Subreddit`
+- [r/psphacks](https://www.reddit.com/r/psphacks) `Subreddit`
+- [r/originalxbox](https://www.reddit.com/r/originalxbox) `Subreddit`
+- [r/360hacks](https://www.reddit.com/r/360hacks) `Subreddit`
+- [r/emulation](https://www.reddit.com/r/emulation) `Subreddit`
+- [r/EmulationOnAndroid](https://www.reddit.com/r/EmulationOnAndroid) `Subreddit`
+- [r/SBCGaming](https://www.reddit.com/r/SBCGaming) `Subreddit`
+- [r/SteamDeck](https://www.reddit.com/r/SteamDeck) `Subreddit`
+- [r/retrogaming](https://www.reddit.com/r/retrogaming) `Subreddit`
+- [r/Gameboy](https://www.reddit.com/r/Gameboy) `Subreddit`
+- [r/romhacking](https://www.reddit.com/r/romhacking) `Subreddit`
+
+---
+
+## Other Useful Indexes
+
+- [theindex.moe](https://theindex.moe)
+- [everythingmoe](https://everythingmoe.com)
+- [wotaku.wiki](https://wotaku.wiki)
+- [fmhy](https://fmhy.net)
+- [Awesome Selfhosted](https://github.com/awesome-selfhosted)
+- [Awesome Piracy](https://github.com/ibrahima313/awesome-piracy)
+- [r/Piracy](https://www.reddit.com/r/Piracy)
+- [r/animepiracy](https://www.reddit.com/r/animepiracy)
+
 ---
 
 ## Safety & Disclaimer
 
-Neko’s Index does **not** host any files or content. All links point to third-party websites and open-source projects. Always:
+**Important Legal Notice:** Neko's Index is an informational guide only. It does not host, distribute, or facilitate access to copyrighted material. All links provided are to third-party websites and services over which there is no control.
 
-- Download from official sources.
-- Scan unknown files with [VirusTotal](https://www.virustotal.com).
-- Keep your antivirus/anti-malware software up to date.
-- Verify that your use of any linked service complies with the laws in your jurisdiction.
+This backup, like the source site, is for educational and informational purposes only. Users are responsible for ensuring their use of any linked services complies with applicable laws in their jurisdiction. This is not an endorsement of piracy or copyright infringement.
 
-This is an **informational index only**. We do not host, distribute, or control any linked content, and we do not endorse piracy, copyright infringement, or misuse of any listed tool.
+**DMCA Policy:** If you believe your copyrighted work has been posted on a linked website, please contact that website directly. Neither the source site nor this backup is responsible for the content of external sites. Some VPN links on the source site may be affiliate referrals.
 
----
-
-## DMCA
-
-This backup is an **informational index** of publicly available links. We do not host, store, or distribute any copyrighted content, and we do not operate the linked services. If you are a copyright holder and believe a link listed here infringes your rights, please contact the respective third-party service or platform directly. We will review and remove or update any specific link upon receipt of a valid DMCA notice.
-
-To file a DMCA takedown request regarding a listing in this index, please provide:
-
-- A physical or electronic signature of the copyright owner or authorized agent
-- Identification of the copyrighted work claimed to have been infringed
-- The exact URL or listing in this index that contains the link in question
-- Your contact information (name, address, email, phone)
-- A statement that you have a good-faith belief the use is not authorized
-- A statement that the information is accurate, under penalty of perjury
+Information may change without notice.
 
 ---
 
 ## Suggested GitHub Topics
 
-Apply these topics in the repository settings to improve discoverability:
-
-`open-source` `foss` `privacy` `security` `streaming` `anime` `manga` `self-hosted` `android` `ios` `linux` `windows` `vpn` `dns` `adblocker` `password-manager` `browser` `youtube` `media` `gaming` `emulation` `ai` `productivity` `tools` `index` `directory`
+`awesome-list` `directory` `streaming` `anime` `manga` `privacy` `open-source` `self-hosted` `emulation` `retro-gaming` `homebrew` `ai-tools`
