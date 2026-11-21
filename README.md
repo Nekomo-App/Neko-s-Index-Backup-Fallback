@@ -4,7 +4,7 @@
 
 A curated, living directory of open-source apps, privacy tools, streaming utilities, anime & manga resources, retro gaming/modding guides, and more.
 
-[![Live: GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-3b82f6?logo=github)](https://neko-s-index.github.io/Nekos-Index/)
+[![Live: GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-3b82f6?logo=github)](https://nekomo-app.github.io/Nekos-Index/)
 [![Live: Netlify](https://img.shields.io/badge/Live-Netlify-00c7b7?logo=netlify)](https://n3k0s-index.netlify.app/)
 [![License: GPL](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -1408,3 +1408,7 @@ Information may change without notice.
 ## Suggested GitHub Topics
 
 `awesome-list` `directory` `streaming` `anime` `manga` `privacy` `open-source` `self-hosted` `emulation` `retro-gaming` `homebrew` `ai-tools`
+
+---
+
+*Neko's Index and its associated repositories are owned, operated, and maintained by [Nekosphere](https://github.com/Nekomo-App).*
